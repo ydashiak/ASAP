@@ -1835,89 +1835,51 @@ body {
 .cid-qtS6fHMFPf .mbr-section-title {
   color: #b1a374;
 }
-.cid-qtUuvNsgxP {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-qurXCTHtYb {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/shutterstock-568024666-1-2000x1335.jpg");
+  position: relative;
 }
-.cid-qtUuvNsgxP .mbr-section-subtitle {
-  color: #767676;
+.cid-qurXCTHtYb .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
 }
-.cid-qtUuvNsgxP .container-table {
-  margin: 0 auto;
-}
-.cid-qtUuvNsgxP .scroll {
-  overflow-x: auto;
+.cid-qurXCTHtYb .card .card-header {
+  border-radius: 0px;
+  border: 0px;
   padding: 0;
 }
-.cid-qtUuvNsgxP .dataTables_wrapper {
+.cid-qurXCTHtYb .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
   display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
 }
-.cid-qtUuvNsgxP .dataTables_wrapper .search {
-  margin-bottom: .5rem;
+.cid-qurXCTHtYb .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
 }
-.cid-qtUuvNsgxP .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-qtUuvNsgxP table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cccccc;
+.cid-qurXCTHtYb .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
   margin-bottom: 0;
 }
-.cid-qtUuvNsgxP table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
+.cid-qurXCTHtYb .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
 }
-.cid-qtUuvNsgxP table th:hover {
-  background: #cccccc;
-  color: #000000;
+.cid-qurXCTHtYb .card .panel-body {
+  color: #767676;
 }
-.cid-qtUuvNsgxP table td {
-  border-top: 1px solid #cccccc;
-}
-.cid-qtUuvNsgxP table.table {
-  background: #ffffff;
-}
-.cid-qtUuvNsgxP .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-qtUuvNsgxP .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-qtUuvNsgxP .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-qtUuvNsgxP .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-}
-@media (max-width: 992px) {
-  .cid-qtUuvNsgxP .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-qtUuvNsgxP .dataTables_filter {
-    text-align: center;
-  }
-  .cid-qtUuvNsgxP .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
-}
-.cid-qtUuvNsgxP .mbr-section-title {
+.cid-qurXCTHtYb H4 {
   color: #ffffff;
 }
-.cid-qtUuvNsgxP LABEL {
+.cid-qurXCTHtYb .panel-text {
+  color: #ffffff;
+}
+.cid-qurXCTHtYb H2 {
   color: #ffffff;
 }
 .cid-quqwya6Rcm {
