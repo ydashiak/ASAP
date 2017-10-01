@@ -28,10 +28,10 @@ body {
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
-  font-size: 3rem;
+  font-size: 2.6rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 4.16rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.08rem;
+    font-size: calc( 1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.64rem;
@@ -2062,23 +2062,6 @@ body {
   .cid-qtSczO9mwJ .carousel-inner.slides6 .cloneditem-5 {
     display: block;
   }
-}
-.cid-qwN7CYTmKZ {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #efefef;
-}
-.cid-qwN7CYTmKZ .counter-container {
-  color: #767676;
-}
-.cid-qwN7CYTmKZ .counter-container ul {
-  margin-bottom: 0;
-}
-.cid-qwN7CYTmKZ .counter-container ul li {
-  margin-bottom: 1rem;
-}
-.cid-qwN7CYTmKZ .mbr-text UL {
-  text-align: center;
 }
 .cid-qtScBSMBFy {
   padding-top: 90px;
